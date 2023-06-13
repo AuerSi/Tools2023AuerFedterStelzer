@@ -44,6 +44,10 @@ public class FirstFragment extends Fragment {
     public void onDestroyView() {
         super.onDestroyView();
         binding = null;
+		
+		int i = 0;
+		// Hallo Simon
     }
+	
 
 }
