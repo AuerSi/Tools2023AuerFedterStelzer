@@ -1,0 +1,8 @@
+# ignore all .class files
+*.class
+
+# ignore all files in any directory named build
+bin/
+
+# ignore all files in any directory named build
+gen/
