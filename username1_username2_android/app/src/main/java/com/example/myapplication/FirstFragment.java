@@ -37,6 +37,8 @@ public class FirstFragment extends Fragment {
             }
         });
     }
+	
+	public void thisIsANewMethod() { }
 
     @Override
     public void onDestroyView() {
