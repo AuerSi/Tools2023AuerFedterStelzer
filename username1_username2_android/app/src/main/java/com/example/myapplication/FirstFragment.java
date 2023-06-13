@@ -39,8 +39,8 @@ public class FirstFragment extends Fragment {
     }
 	
 	public void thisIsANewMethod() 
-	{ 
-		int y = 1;
+	{
+		int test = 1;	
 	}
 
     @Override
