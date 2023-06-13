@@ -41,6 +41,8 @@ public class FirstFragment extends Fragment {
 	public void thisIsANewMethod() 
 	{
 		int test = 1;	
+		int simon = 0;
+		int projektmanagement = 2;
 	}
 
     @Override
