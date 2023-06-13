@@ -43,6 +43,9 @@ public class FirstFragment extends Fragment {
 		int test = 1;	
 		int test2 = 3;
 		int test3 = 4;
+		int simon = 0;
+		int projektmanagement = 2;
+		// Hallo
 	}
 
     @Override
