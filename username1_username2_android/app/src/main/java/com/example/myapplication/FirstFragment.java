@@ -46,6 +46,9 @@ public class FirstFragment extends Fragment {
 		int simon = 0;
 		int projektmanagement = 2;
 		// Hallo
+		// asdfas
+		int bugFix = 5;
+		System.out.println("test");
 	}
 
     @Override
